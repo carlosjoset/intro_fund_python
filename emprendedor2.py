@@ -1,4 +1,5 @@
 #Carlos Torres 26/10/2020
+#Cargado al GIT
 
 #Se debe ingresar el ["Precio","Número de usuarios totales","Número de usuarios premium","Numero de usuario gratuitos","Gastos"]
 
